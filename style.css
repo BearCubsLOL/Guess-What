@@ -1,0 +1,25 @@
+button {
+    width:300px;
+    padding: 5px;
+    font-size:1.1em;
+    text-transform: uppercase;
+    margin: 5px;
+}
+
+body {
+    margin:0;
+    box-sizing: border-box;
+    background-color: #151515;
+}
+
+#thetext {
+    color: white;
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+}
